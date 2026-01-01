@@ -1,0 +1,12 @@
+
+ChromeDriver = D:\\SeleniumCompletePrograms\\Object Repository In Selenium WebDriver\\ChromeDriverJars\\chromedriver.exe
+EdgeDriver   = .\\EdgeDriverJars\\msedgedriver.exe
+FirefoxDriver= .\\FirefoxDriverJars\\geckodriver.exe
+
+baseUrl = https://www.login.hiox.com/login?referrer=easycalculation.com
+
+Uname  = log_email
+Pword  = log_password
+SignInbtn = //input[@name='log_submit']
+
+FileLocation = ./Apache Test Data/Test data file.xlsx
