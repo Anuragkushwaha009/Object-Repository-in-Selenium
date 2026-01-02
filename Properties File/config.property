@@ -1,7 +1,7 @@
 
-ChromeDriver = D:\\SeleniumCompletePrograms\\Object Repository In Selenium WebDriver\\ChromeDriverJars\\chromedriver.exe
-EdgeDriver   = .\\EdgeDriverJars\\msedgedriver.exe
-FirefoxDriver= .\\FirefoxDriverJars\\geckodriver.exe
+ChromeDriver = ./ChromeDriverJars/chromedriver.exe
+EdgeDriver   = ./EdgeDriverJars/msedgedriver.exe
+FirefoxDriver= ./FirefoxDriverJars/geckodriver.exe
 
 baseUrl = https://www.login.hiox.com/login?referrer=easycalculation.com
 

@@ -20,6 +20,7 @@ public class ObjTestDemo {
 		
 		System.setProperty("webdriver.chrome.driver", config.getChromePath());
 		ChromeDriver driver =new ChromeDriver();
+		
 		driver.get(config.AppURL());
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
